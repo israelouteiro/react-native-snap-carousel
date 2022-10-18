@@ -11,6 +11,8 @@
 -----
 -----
 
+# Compatible with RN 0.69.5
+
 ## ✨ Some great news for you, fellow plugin user!
 
 ### 💡 **[Head over there now](https://github.com/meliorence/react-native-snap-carousel/blob/master/doc/VERSION_4.md)** to learn more about all the goodness that's coming your way.
